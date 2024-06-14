@@ -11,4 +11,4 @@ A web-based disease prediction system is shown in the code above. I trained ML m
 <img src="./Images/parkinsons1.png" alt="Diabetic 1" width="45%"/>
 </p>
 
-#### Happy contributing  👋
+  👋
